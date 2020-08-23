@@ -1,5 +1,9 @@
 ### Define
-> Console app build with text-parser library.
+Console app built with text-parser library.
+
+src : https://github.com/4weKromi/tp-apps
+
+libs : https://github.com/4weKromi/text-parser
 
 #### Demo :
 
@@ -14,5 +18,5 @@
 > *C:\Users\>define GCC*
 
 #### Notes:
-> Manual edit/add text file ( *db.dat* ).
-> Linear search.
+- Manual edit/add text file ( *db.dat* ).
+- Linear search.

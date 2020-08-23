@@ -8,10 +8,10 @@
 int help(){
 	std::cout<<"\n\t define [option]/[\"your text\"] \n";
 	std::cout<<"\n\t --help \t\t displays help page \n";
-	std::cout<<"\n\t --version \t displays version \n";
-	std::cout<<"\n\t --all \t displays all info \n";
-	std::cout<<"\n\n\t Example : define GCC \n";
-	std::cout<<"\t\t define \"Text with spaces\" \n\n";
+	std::cout<<"\n\t --version \t\t displays version \n";
+	std::cout<<"\n\t --all \t\t\t displays all info \n";
+	std::cout<<"\n\n\t Example :\t define GCC \n\n";
+	std::cout<<"\t\t\t define \"Text with spaces\" \n\n";
 	return 0;
 }
 
